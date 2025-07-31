@@ -16,7 +16,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.orpheusdark.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.orpheusdark.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.orpheusdark.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.orpheusdark.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/orpheusdark/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orpheusdark-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:orpheusdark@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-orpheusdark@duck.com-blue?style=flat-square&logo=gmail"></a>
 </p>
