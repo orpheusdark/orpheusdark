@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/orpheusdark">
-		<img src="https://komarev.com/ghpvc/?username=orpheusdark&style=for-the-badge&color=0e7490&base=1000" alt="Profile views" />
+		<img src="https://komarev.com/ghpvc/?username=orpheusdark&style=for-the-badge&color=0e7490&base=2560" alt="Profile views" />
 	</a>
 	<a href="https://github.com/orpheusdark?tab=followers">
 		<img src="https://img.shields.io/github/followers/orpheusdark?style=for-the-badge&color=0f766e" alt="Followers" />
