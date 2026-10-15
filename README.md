@@ -1,23 +1,12 @@
 <h1 align="center">Nirant Chavda</h1>
 <h3 align="center">Building practical products with code, AI, and clean UX</h3>
 
-## About Me
-
-- Name: Nirant Chavda
-- Username: @orpheusdark
-- Location: Vadodara, India
-- Focus: Web apps, automation, and AI-powered tools
-- Website: [orpheusdark.github.io](http://orpheusdark.github.io/)
-
-## Connect With Me
+## Connect With Me & Competitive Coding
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orpheusdark)
 [![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/orpheusdark)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orpheusdark)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orpheusdark@duck.com) 
-
-## Competitive Coding
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirantchavda/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/orpheusdark)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/orpheusdark)
